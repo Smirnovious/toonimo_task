@@ -1,8 +1,10 @@
 import React from 'react'
 
+import MainPage from './Pages/MainPage'
+
 const App = () => {
   return (
-    <div className='text-5xl'>Toonimo Task</div>
+    <MainPage/>
   )
 }
 
